@@ -1,1 +1,1 @@
-# atlasshop
+# atlasshop e-commerce shop
